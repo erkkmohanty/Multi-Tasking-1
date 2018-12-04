@@ -1,0 +1,11 @@
+E:\Dot Net\Multi Tasking 1\Multi Tasking 1\bin\Debug\netcoreapp2.0\Multi Tasking 1.deps.json
+E:\Dot Net\Multi Tasking 1\Multi Tasking 1\bin\Debug\netcoreapp2.0\Multi Tasking 1.runtimeconfig.json
+E:\Dot Net\Multi Tasking 1\Multi Tasking 1\bin\Debug\netcoreapp2.0\Multi Tasking 1.runtimeconfig.dev.json
+E:\Dot Net\Multi Tasking 1\Multi Tasking 1\bin\Debug\netcoreapp2.0\Multi Tasking 1.dll
+E:\Dot Net\Multi Tasking 1\Multi Tasking 1\bin\Debug\netcoreapp2.0\Multi Tasking 1.pdb
+E:\Dot Net\Multi Tasking 1\Multi Tasking 1\obj\Debug\netcoreapp2.0\Multi Tasking 1.csprojAssemblyReference.cache
+E:\Dot Net\Multi Tasking 1\Multi Tasking 1\obj\Debug\netcoreapp2.0\Multi Tasking 1.csproj.CoreCompileInputs.cache
+E:\Dot Net\Multi Tasking 1\Multi Tasking 1\obj\Debug\netcoreapp2.0\Multi Tasking 1.AssemblyInfoInputs.cache
+E:\Dot Net\Multi Tasking 1\Multi Tasking 1\obj\Debug\netcoreapp2.0\Multi Tasking 1.AssemblyInfo.cs
+E:\Dot Net\Multi Tasking 1\Multi Tasking 1\obj\Debug\netcoreapp2.0\Multi Tasking 1.dll
+E:\Dot Net\Multi Tasking 1\Multi Tasking 1\obj\Debug\netcoreapp2.0\Multi Tasking 1.pdb
